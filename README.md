@@ -1,6 +1,4 @@
-Here are the steps outlined in the video to create a financial credit card weekly dashboard using Power BI and a SQL data source imported from a CSV file:
-
----
+#CREDIT CARD DASHBOARD USING POWER BI
 
 ### **Step 1: Set Up Your Environment**
 
